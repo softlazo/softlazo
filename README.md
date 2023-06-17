@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently aiming to learn Java, TypeScript, C++ and C#, because I want to create Apps for Windows, Android and iOS and maybe many other projects. (But not right now, because I am currently graduating school and still need to learn for the exams.=
+I'm currently aiming to learn Java, TypeScript, C++ and C#, because I want to create Apps for Windows, Android and iOS and maybe many other projects. (But not right now, because I am currently graduating school and still need to learn for the exams.)
 
 <!--
 **softlazo/softlazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
